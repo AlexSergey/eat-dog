@@ -1,4 +1,4 @@
-## Пример React + Redux
+## Пример React + Redux 
 [rocket2](https://github.com/AlexSergey/rocket2)
 ## Пример Angular 2
 [rocket2](https://github.com/AlexSergey/angular2-example)
