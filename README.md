@@ -3,7 +3,7 @@
 ## Пример Angular 2
 [rocket2](https://github.com/AlexSergey/angular2-example)
 ## Пример Angular 1
-[rocket2](https://github.com/AlexSergey/Angular_MEAN)
+[rocket2](https://github.com/AlexSergey/Angular_MEAN) 
 
 ### Обучение
 [Angular 2 quick start](https://egghead.io/lessons/angular-2-say-hello-world-to-angular-2?series=angular-2-fundamentals)
