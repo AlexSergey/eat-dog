@@ -1,9 +1,7 @@
-## Example React + Redux  
-- [rocket2](https://github.com/AlexSergey/rocket2)
-## Example Angular 2
-- [angular2-example](https://github.com/AlexSergey/angular2-example)
-## Example Angular 1
-- [Angular_MEAN](https://github.com/AlexSergey/Angular_MEAN) 
+## Examples
+- [React + Redux](https://github.com/AlexSergey/rocket2)
+- [angular 2 example](https://github.com/AlexSergey/angular2-example)
+- [Angular 1 example](https://github.com/AlexSergey/Angular_MEAN) 
 
 ### Learn
 - [Angular 2 quick start](https://egghead.io/lessons/angular-2-say-hello-world-to-angular-2?series=angular-2-fundamentals)
